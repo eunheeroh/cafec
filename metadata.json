@@ -1,0 +1,6 @@
+{
+  "name": "바이브 카페 - Vibe Cafe 주문 시스템",
+  "description": "따뜻하고 직관적인 바이브 카페 온라인 주문 및 실시간 금액 계산 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
